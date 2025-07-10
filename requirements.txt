@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+torch
+transformers
+datasets
+scipy
+pingouin
+statsmodels
+accelerate>=0.26.0
